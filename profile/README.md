@@ -10,7 +10,7 @@ Three layers, rising in commitment. **CommonTongue's README is the single source
 stack** — this is an index that points at it, not a restatement:
 
 - **`design-doctrine`** — the PRINCIPLES (the why + the rules). You *read* it.
-- **`blueprints`** — the SHAPES (how to build a recurring kind of thing). You *read* it.
+- **`blueprints`** — the SHAPES (how to build a recurring kind of thing). You *adapt to* it.
 - **`CommonTongue`** — the CONTRACTS (the versioned wire language + per-language packages). You
   *depend on* it.
 
