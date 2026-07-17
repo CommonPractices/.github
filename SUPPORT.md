@@ -4,4 +4,4 @@
 - **Found an inconsistency, a gap, or drift?** Open an **Issue** — that is the most useful report
   here.
 - **A security problem?** See **[SECURITY.md](SECURITY.md)**.
-- **What is this?** See the **[profile README](profile/README.md)**.
+- **What is this?** See the **[README](README.md)**.
