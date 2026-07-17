@@ -1,6 +1,3 @@
-<!-- DRAFT (docs/_working/). Contributor Covenant 2.1. Fill the enforcement contact before promoting.
-     Promotes to the repo root as `CODE_OF_CONDUCT.md`. -->
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

@@ -1,5 +1,3 @@
-<!-- DRAFT (docs/_working/). Promotes to `.github/PULL_REQUEST_TEMPLATE.md`. -->
-
 ## What & why
 
 <!-- What rule / shape / contract does this change, and why? Link the issue. -->

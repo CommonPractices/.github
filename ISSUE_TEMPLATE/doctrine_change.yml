@@ -1,4 +1,3 @@
-# DRAFT (docs/_working/). Promotes to `.github/ISSUE_TEMPLATE/doctrine_change.yml`.
 name: Propose a doctrine / blueprint / contract change
 description: Add, amend, or supersede a shared rule, shape, or contract
 labels: ["doctrine"]

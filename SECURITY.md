@@ -1,7 +1,5 @@
 # Security Policy
 
-> **Status: DRAFT** (`docs/_working/`), pre-beta.
-
 Most of CommonPractices is documentation. The exception is **`CommonTongue`**, which ships **code you
 depend on** — the generated types and the hand-written protocol adapters that every product links.
 

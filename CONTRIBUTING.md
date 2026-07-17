@@ -1,7 +1,5 @@
 # Contributing to CommonPractices
 
-> **Status: DRAFT** (`docs/_working/`), pre-beta.
-
 CommonPractices holds the shared standards — `design-doctrine` (principles), `blueprints` (shapes),
 `CommonTongue` (contracts). A change here moves the ground other projects stand on, so the bar is
 different from a product repo.

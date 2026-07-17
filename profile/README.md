@@ -1,7 +1,5 @@
 # CommonPractices — the shared substrate
 
-> **Status: DRAFT** (`docs/_working/`), pre-beta.
-
 CommonPractices holds the standards every other family here is built on. It is not a product; it is
 the ground they stand on. Independent programs interoperate because they conform to the same
 practices — not because they share code.
