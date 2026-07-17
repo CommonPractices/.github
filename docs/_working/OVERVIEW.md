@@ -1,0 +1,24 @@
+# CommonPractices — the shared substrate
+
+> **Status: DRAFT** (`docs/_working/`), pre-beta.
+
+CommonPractices holds the standards every other family here is built on. It is not a product; it is
+the ground they stand on. Independent programs interoperate because they conform to the same
+practices — not because they share code.
+
+## The altitude stack
+
+Three layers, rising in commitment. **CommonTongue's README is the single source of truth for the
+stack** — this is an index that points at it, not a restatement:
+
+- **`design-doctrine`** — the PRINCIPLES (the why + the rules). You *read* it.
+- **`blueprints`** — the SHAPES (how to build a recurring kind of thing). You *read* it.
+- **`CommonTongue`** — the CONTRACTS (the versioned wire language + per-language packages). You
+  *depend on* it.
+
+## How it's governed
+
+Changes flow through the doctrine's own discipline: a changeset holds deltas, never a copy; every
+fact lives at exactly one altitude and is *referenced*, not copied, from everywhere else; and the
+owner alone promotes — nothing self-promotes. See `design-doctrine`'s Documentation, Decision,
+Single-Source-of-Truth, and Interface-Stability doctrines.

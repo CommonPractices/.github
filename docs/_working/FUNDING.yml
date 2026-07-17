@@ -1,0 +1,5 @@
+# CommonPractices funding. DRAFT — add the Patreon/Ko-fi handles before promoting.
+# Promotes to the repo root as `.github/FUNDING.yml`.
+github: jschwefel            # owner's account, confirmed set up for GitHub Sponsors
+# patreon: <handle>          # owner has a Patreon — add the handle
+# ko_fi: <handle>            # signing up — add the handle

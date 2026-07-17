@@ -1,0 +1,30 @@
+# DRAFT (docs/_working/). Promotes to `.github/ISSUE_TEMPLATE/doctrine_change.yml`.
+name: Propose a doctrine / blueprint / contract change
+description: Add, amend, or supersede a shared rule, shape, or contract
+labels: ["doctrine"]
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: The change
+      description: What rule / shape / contract should change, and to what?
+    validations:
+      required: true
+  - type: dropdown
+    id: altitude
+    attributes:
+      label: Altitude
+      description: At what level is this actually true?
+      options:
+        - "Universal (design-doctrine)"
+        - "Family / org"
+        - "A single product (does NOT belong here)"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What breaks or drifts without it? Which existing doctrine does it compose with or conflict with?
+    validations:
+      required: true

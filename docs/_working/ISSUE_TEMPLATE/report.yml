@@ -1,0 +1,19 @@
+# DRAFT (docs/_working/). Promotes to `.github/ISSUE_TEMPLATE/report.yml`.
+name: Report an inconsistency or gap
+description: Doctrine that contradicts itself, drifts from practice, or is missing
+labels: ["gap"]
+body:
+  - type: textarea
+    id: where
+    attributes:
+      label: Where
+      description: Which doc(s), and the exact text.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: A contradiction, drift from what projects actually do, or a missing rule?
+    validations:
+      required: true

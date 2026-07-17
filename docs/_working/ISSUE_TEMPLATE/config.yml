@@ -1,0 +1,9 @@
+# DRAFT (docs/_working/). Promotes to `.github/ISSUE_TEMPLATE/config.yml`.
+blank_issues_enabled: false
+contact_links:
+  - name: Question / discussion
+    url: https://github.com/CommonPractices
+    about: Open a Discussion on the relevant repo.
+  - name: Security problem
+    url: https://github.com/CommonPractices/.github/blob/main/SECURITY.md
+    about: Report privately — do not open a public issue.
