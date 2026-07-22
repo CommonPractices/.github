@@ -9,8 +9,9 @@ practices — not because they share code.
 Three layers, rising in commitment. **CommonTongue's README is the single source of truth for the
 stack** — this is an index that points at it, not a restatement:
 
-- **`design-doctrine`** — the PRINCIPLES (the why + the rules). You *read* it.
-- **`blueprints`** — the SHAPES (how to build a recurring kind of thing). You *adapt to* it.
+- **`CommonMind`** — the PRINCIPLES (the why + the rules). You *read* it.
+- **`CommonFraming`** — the SHAPES (how to build a recurring kind of thing) — the family's repo of
+  product-shape blueprints. You *adapt to* it.
 - **`CommonTongue`** — the CONTRACTS (the versioned wire language + per-language packages). You
   *depend on* it.
 
@@ -18,5 +19,5 @@ stack** — this is an index that points at it, not a restatement:
 
 Changes flow through the doctrine's own discipline: a changeset holds deltas, never a copy; every
 fact lives at exactly one altitude and is *referenced*, not copied, from everywhere else; and the
-owner alone promotes — nothing self-promotes. See `design-doctrine`'s Documentation, Decision,
+owner alone promotes — nothing self-promotes. See `CommonMind`'s Documentation, Decision,
 Single-Source-of-Truth, and Interface-Stability doctrines.

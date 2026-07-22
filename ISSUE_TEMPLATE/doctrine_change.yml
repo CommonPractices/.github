@@ -15,7 +15,7 @@ body:
       label: Altitude
       description: At what level is this actually true?
       options:
-        - "Universal (design-doctrine)"
+        - "Universal (CommonMind)"
         - "Family / org"
         - "A single product (does NOT belong here)"
     validations:

@@ -1,6 +1,6 @@
 # Contributing to CommonPractices
 
-CommonPractices holds the shared standards — `design-doctrine` (principles), `blueprints` (shapes),
+CommonPractices holds the shared standards — `CommonMind` (principles), `CommonFraming` (shapes),
 `CommonTongue` (contracts). A change here moves the ground other projects stand on, so the bar is
 different from a product repo.
 
@@ -9,7 +9,7 @@ different from a product repo.
 - **Read the doctrine you're touching.** It states its own rules; a proposal that contradicts them
   must argue *why*, not ignore them.
 - **Check the altitude.** A rule true of one project belongs in that project, not here. Only
-  genuinely cross-project facts belong in `design-doctrine` (Single-Source-of-Truth Doctrine).
+  genuinely cross-project facts belong in `CommonMind` (Single-Source-of-Truth Doctrine).
 - **`CommonTongue` is a contract.** Changes are **additive-only within a version** — never remove,
   rename, or retype a field. A real break forks a new version *alongside* the old (Interface
   Stability Doctrine).
