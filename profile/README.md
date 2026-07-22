@@ -15,6 +15,12 @@ stack** — this is an index that points at it, not a restatement:
 - **`CommonTongue`** — the CONTRACTS (the versioned wire language + per-language packages). You
   *depend on* it.
 
+## Also here
+
+- **`CommonStage`** — the family's shared web presentation layer: the standard, templates, styling,
+  config schema, and generator for every family Org and product's public web pages. Not part of the
+  altitude stack — it *presents* the family rather than governing it. **Design stage; no code yet.**
+
 ## How it's governed
 
 Changes flow through the doctrine's own discipline: a changeset holds deltas, never a copy; every
