@@ -19,7 +19,8 @@ stack** — this is an index that points at it, not a restatement:
 
 - **`CommonStage`** — the family's shared web presentation layer: the standard, templates, styling,
   config schema, and generator for every family Org and product's public web pages. Not part of the
-  altitude stack — it *presents* the family rather than governing it. **Design stage; no code yet.**
+  altitude stack — it *presents* the family rather than governing it. **Early: two proving sites
+  built, shared apparatus extracted; the config-driven generator is next.**
 
 ## How it's governed
 
